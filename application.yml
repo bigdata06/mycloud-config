@@ -1,2 +1,2 @@
 management.security.enabled=false
-message: "I am an application"
+#message = Spring Cloud MicroService Demo live de retour!!
